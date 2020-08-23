@@ -19,9 +19,6 @@ pip install pyspellchecker
 pip install --upgrade language_tool_python
 pip install nltk
 
-nltk.download('stopwords')
-nltk.download('punkt')
-
 ```
 
 ## Installation 
