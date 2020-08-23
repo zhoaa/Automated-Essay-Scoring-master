@@ -18,6 +18,8 @@ pip install gensim
 pip install pyspellchecker
 pip install --upgrade language_tool_python
 pip install nltk
+pip install django-extensions
+
 
 ```
 
