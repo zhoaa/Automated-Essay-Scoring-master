@@ -1,7 +1,7 @@
 # Automated Essay Scoring
-> A Deep Learning model that predicts the score of a given input essay. 
+> A Deep Learning/neural network model that predicts the score of a given input essay. 
 
-Dataset is from Kaggle ASAP competition which was provided by The Hewlett Foundation.
+//Dataset is from Kaggle ASAP competition which was provided by The Hewlett Foundation.
 
 The **mysite** folder contains the Django app.
 
